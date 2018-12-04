@@ -3,7 +3,7 @@ body {
     font-size: 18px;
     line-height: 34px;
     color: #777777;
-    background: url("../images/concrete_seamless.png");
+    background: url("../images/harikabkgd.jpg");
   }
   
   * {
@@ -35,7 +35,7 @@ body {
   h3 {
     font-family: Georgia, Times, "Times New Roman", serif;
     font-weight: 700;
-    color: #805CE7;
+    color: #ffcc00;
   }
   
   h1 {
@@ -58,8 +58,8 @@ body {
     width: 100%;
     margin: 0 0 30px;
     overflow: auto;
-    color: #ffffff;
-    background: #ffffff;
+    color: #ffcc00;
+    background: #ffcc00;
     border-bottom: 2px solid #cccccc;
   }
   
@@ -74,7 +74,7 @@ body {
     color: #ffffff;
     text-align: center;
     text-decoration: none;
-    background: #805CE7;
+    background: #ffcc00;
   }
   
   nav {
@@ -106,7 +106,7 @@ body {
     color: #cccccc;
     text-align: center;
     background: #666666;
-    border-top: 8px solid #805CE7;
+    border-top: 8px solid #ffcc00;
     height: 50px;
   }
   
@@ -130,7 +130,7 @@ body {
     max-width: 960px;
     padding: 30px;
     margin: 0 0 40px;
-    background: #ffffff;
+    background: url("../images/harikabkgd.jpg");
     border: 1px solid #dddddd;
   }
   
@@ -164,7 +164,7 @@ body {
     line-height: 30px;
     color: #ffffff;
     text-align: center;
-    background: #805CE7;
+    background:#ffcc00;
     border-bottom: 0;
   }
   
@@ -212,7 +212,7 @@ body {
     font-size: 18px;
     color: #ffffff;
     cursor: pointer;
-    background:#805CE7;
+    background:#ffcc00;
     border: 0 none;
   }
 
