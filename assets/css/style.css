@@ -6,7 +6,8 @@ body {
     background: url("../images/harikabkgd.jpg");
   }
   
-  * {
+  .bracket {
+    width: 10%;
     box-sizing: border-box;
   }
   
@@ -49,7 +50,11 @@ body {
   h3 {
     font-size: 22px;
   }
-  
+ .curly-bracket{
+   float: left;
+   width: 300px;
+   length: 700;
+ }
   /* header */
   
   #masthead {
@@ -126,7 +131,7 @@ body {
   
   .main-section {
     float: left;
-    width: 100%;
+    width:69%;
     max-width: 960px;
     padding: 30px;
     margin: 0 0 40px;
