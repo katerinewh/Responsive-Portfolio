@@ -19,7 +19,7 @@ body {
     max-width: 960px;
     margin: 0 auto;
     clear: both;
-   
+   text color
   }
 
 .card{
@@ -135,6 +135,7 @@ body {
   #main-container {
     padding-top: 20px;
     min-height: calc(100vh - 70px);
+    color: #ffcc00
   }
   
   .py-3 {
